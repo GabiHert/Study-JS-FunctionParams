@@ -57,9 +57,9 @@ MyFunction(2, undefined, 20); //log1
 MyFunction(2); //log2
 ```
 
-`(log1)`console.log: 24 (2+0+20)
+`(log1)`console.log: `24` (2+0+20)
 
-`(log2)`console.log: 8 (2+2+4)
+`(log2)`console.log: `8` (2+2+4)
 
 ## Assignment through destructuring.
 
